@@ -1,6 +1,6 @@
 body {
-    font-family: "Neuropol x";
-    /* background-color: black; */
+    font-family: "Software tester 7";
+    background-color: black;
 }
 
 .timer-container {
@@ -8,4 +8,11 @@ body {
     border: 5px solid gray;
     margin-top: 19%;
     border-radius: 2px;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    font-size: 120px;
+    margin: 0;
 }
